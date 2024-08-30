@@ -1,5 +1,7 @@
-## Hi there 👋
+## Olá, eu sou Rafael Alves 👋
 
+
+Sou graduando em Análise e Desenvolvimento de Sistemas pela Uniasselvi e recentemente conclui o Bootcamp Santander 2024, com foco em Programação BackEnd em Java
 <!--
 **Rafael540/Rafael540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
