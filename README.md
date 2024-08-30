@@ -1,15 +1,16 @@
 ## Olá, eu sou Rafael Alves 👋
 
+Sou graduando em Análise e Desenvolvimento de Sistemas pela Uniasselvi. Atualmente, estou em transição de carreira para área de  desenvolvimento BackEnd focado em Java. Além disso, tenho sólido conhecimento em:
 
-Sou graduando em Análise e Desenvolvimento de Sistemas pela Uniasselvi e recentemente conclui o Bootcamp Santander 2024, com foco em Programação BackEnd em Java. Tenho um sólido conhecimento em:
-
-- Java
 - Git e Github
 - Bancos de dados SQL e NoSQL
 - JPA/ Hibernate
 - Maven
 - jUnit
 - SpringBoot
+
+
+
 <!--
 **Rafael540/Rafael540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
