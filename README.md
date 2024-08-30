@@ -4,14 +4,9 @@
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alves540@hotmail.com)
 
 
-Sou graduando em Análise e Desenvolvimento de Sistemas pela Uniasselvi. Atualmente, estou em transição de carreira para área de  desenvolvimento BackEnd focado em Java. Além disso, tenho sólido conhecimento em:
+Sou graduando em Análise e Desenvolvimento de Sistemas pela Uniasselvi. Estou em transição para a área de Desenvolvimento Backend, focando em tecnologias como Java, Springboot, bancos de dados SQL e NoSQL. Essa mudança reflete meu compromisso em adquirir novas habilidades e em criar soluções tecnológicas robustas e centradas no usuário, combinando estética e funcionalidade em projetos de backend.
 
-- Git e Github
-- Bancos de dados SQL e NoSQL
-- JPA/ Hibernate
-- Maven
-- jUnit
-- SpringBoot
+
 
 
 
