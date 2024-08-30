@@ -1,9 +1,8 @@
 ## Olá, eu sou Rafael Alves 👋
 
-graph TD
-    A[LinkedIn] --> B["Perfil de Rafael Alves Neves da Silva"]
-    click A "https://www.linkedin.com/in/rafael-alves-neves" "Visite meu LinkedIn"
-    style A fill:#0077b5,stroke:#0077b5,color:white,stroke-width:2px,font-size:20px
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves-neves)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alves540@hotmail.com)
+
 
 Sou graduando em Análise e Desenvolvimento de Sistemas pela Uniasselvi. Atualmente, estou em transição de carreira para área de  desenvolvimento BackEnd focado em Java. Além disso, tenho sólido conhecimento em:
 
