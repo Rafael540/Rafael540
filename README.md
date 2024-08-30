@@ -1,5 +1,10 @@
 ## Olá, eu sou Rafael Alves 👋
 
+graph TD
+    A[LinkedIn] --> B["Perfil de Rafael Alves Neves da Silva"]
+    click A "https://www.linkedin.com/in/rafael-alves-neves" "Visite meu LinkedIn"
+    style A fill:#0077b5,stroke:#0077b5,color:white,stroke-width:2px,font-size:20px
+
 Sou graduando em Análise e Desenvolvimento de Sistemas pela Uniasselvi. Atualmente, estou em transição de carreira para área de  desenvolvimento BackEnd focado em Java. Além disso, tenho sólido conhecimento em:
 
 - Git e Github
