@@ -4,7 +4,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alves540@hotmail.com)
 
 
-Sou graduando em Análise e Desenvolvimento de Sistemas pela Uniasselvi. Estou em transição para a área de Desenvolvimento Backend, focando em tecnologias como Java, Springboot, bancos de dados SQL e NoSQL. Essa mudança reflete meu compromisso em adquirir novas habilidades e em criar soluções tecnológicas robustas e centradas no usuário.
+UX/UI Designer com forte conhecimento em Desenvolvimento de Software. Ao longo da minha trajetória, desenvolvi um sólido entendimento de metodologias de design e aprimorei minha capacidade de trabalhar com equipes multidisciplinares. Além disso, meu conhecimento em desenvolvimento Full Stack me permite uma visão abrangente dos processos técnicos, facilitando a comunicação entre as áreas de design e desenvolvimento e garantindo a implementação eficiente de produtos digitais..
 
 
 
