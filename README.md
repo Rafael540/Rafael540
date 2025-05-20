@@ -4,8 +4,9 @@
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alves540@hotmail.com)
 
 
-UX/UI Designer com forte conhecimento em Desenvolvimento de Software. Ao longo da minha trajetória, desenvolvi um sólido entendimento de metodologias de design e aprimorei minha capacidade de trabalhar com equipes multidisciplinares. Além disso, meu conhecimento em desenvolvimento Full Stack me permite uma visão abrangente dos processos técnicos, facilitando a comunicação entre as áreas de design e desenvolvimento e garantindo a implementação eficiente de produtos digitais..
+Comecei minha carreira no UX/UI Design, mas foi na programação que encontrei uma nova paixão. Hoje, estou em transição para a área de desenvolvimento back-end, me formando em Análise e Desenvolvimento de Sistemas e já mergulhado em tecnologias como Java, Spring Boot, SQL/NoSQL e Git.
 
+Com o olhar que trago do design, busco sempre criar soluções que sejam funcionais e pensadas para as pessoas. Sigo aprendendo e evoluindo, em busca de novos desafios nessa nova fase da minha trajetória.
 
 
 
