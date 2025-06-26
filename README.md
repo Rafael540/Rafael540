@@ -3,8 +3,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves-neves)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alves540@hotmail.com)
 
-Depois de atuar com Design e Experiência do Usuário, iniciei minha transição para a área de Desenvolvimento Backend, unindo minha capacidade de entender o comportamento humano à lógica da programação. Meu foco tem sido aprender com profundidade as tecnologias que sustentam o funcionamento das aplicações e construir soluções robustas, bem estruturadas e escaláveis.
-
+Depois de atuar com Design e Experiência do Usuário, iniciei minha transição para a área de **Desenvolvimento Backend**, unindo minha capacidade de entender o comportamento humano à lógica da programação. Meu foco tem sido aprender com profundidade as tecnologias que sustentam o funcionamento das aplicações e construir soluções **robustas, bem estruturadas e escaláveis.
+**
 Tenho me dedicado diariamente a estudos, cursos e projetos práticos utilizando tecnologias como:
 Tecnologias e ferramentas com as quais tenho trabalhado:
 
