@@ -15,7 +15,11 @@ Tecnologias e ferramentas com as quais tenho trabalhado:
 - APIs REST
 - Banco de Dados SQL e NoSQL (MySQL, PostgreSQL, MongoDB)
 - Git e GitHub
-- Python 
+- Python
+- PHP
+- JavaScript
+- SQL
+- Laravel
 - Angular
 - React Js
 - Html
