@@ -3,30 +3,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves-neves)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alves540@hotmail.com)
 
-Depois de atuar com Design e Experiência do Usuário, iniciei minha transição para a área de **Desenvolvimento Full Stack**, unindo minha familiaridade com UX/UI Design à lógica da programação. Meu foco tem sido compreender com profundidade tanto a experiência do usuário quanto as tecnologias que sustentam o funcionamento das aplicações, com o objetivo de construir soluções robustas, bem estruturadas e escaláveis.
+Sou Desenvolvedor Full Stack em transição de UX/UI Design, unindo visão centrada no usuário à lógica e arquitetura de software. Tenho foco em construir aplicações bem estruturadas, escaláveis e orientadas a boas práticas, buscando entender não apenas o como, mas o porquê por trás de cada decisão técnica.
 
-Tenho me dedicado diariamente a estudos, cursos e projetos práticos utilizando tecnologias como:
-Tecnologias e ferramentas com as quais tenho trabalhado:
-
-- Java
-- Spring Boot
-- JPA e Hibernate
--Maven
-- APIs REST
-- Banco de Dados SQL e NoSQL (MySQL, PostgreSQL, MongoDB)
-- Git e GitHub
-- Python
-- PHP
-- JavaScript
-- SQL
-- Laravel
-- Angular
-- React Js
-- Html
-- JavaScript
-
-Sigo evoluindo a cada projeto, buscando entender não só o "como", mas principalmente o "porquê" por trás de cada escolha técnica. Estou em busca de oportunidades que valorizem o aprendizado contínuo, a colaboração entre times e a construção de soluções que façam sentido para quem vai usar.
-
+Atuo com Java e Spring Boot no backend, JavaScript, React e Angular no frontend, além de APIs REST, bancos de dados SQL e NoSQL e Git/GitHub. Estou em constante aprendizado e aberto a oportunidades que valorizem colaboração, evolução técnica e impacto real para o usuário.
 
 
 <!--
