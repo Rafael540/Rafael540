@@ -3,9 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alves-neves)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alves540@hotmail.com)
 
-Sou Desenvolvedor Full Stack em transição de UX/UI Design, unindo visão centrada no usuário à lógica e arquitetura de software. Tenho foco em construir aplicações bem estruturadas, escaláveis e orientadas a boas práticas, buscando entender não apenas o como, mas o porquê por trás de cada decisão técnica.
-
-Atuo com Java e Spring Boot no backend, JavaScript, React e Angular no frontend, além de APIs REST, bancos de dados SQL e NoSQL e Git/GitHub. Estou em constante aprendizado e aberto a oportunidades que valorizem colaboração, evolução técnica e impacto real para o usuário.
+Sou Desenvolvedor Back End. Atuo com Java e Spring Boot no backend, JavaScript, React e Angular no frontend, além de APIs REST, bancos de dados SQL e NoSQL e Git/GitHub. Estou em constante aprendizado e aberto a oportunidades que valorizem colaboração, evolução técnica e impacto real para o usuário.nuo.
 
 
 <!--
